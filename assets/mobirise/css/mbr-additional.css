@@ -843,8 +843,59 @@ a {
 .cid-vgaiDgoiDN .mbr-section-title {
   color: #ffffff;
 }
+.cid-vgbCUkxkvk {
+  display: flex;
+  background-color: #ffffff;
+}
+.cid-vgbCUkxkvk .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 992px) {
+  .cid-vgbCUkxkvk .content-wrap {
+    padding: 5rem 3rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-vgbCUkxkvk {
+    align-items: center;
+  }
+  .cid-vgbCUkxkvk .row {
+    justify-content: center;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-vgbCUkxkvk .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-vgbCUkxkvk {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-vgbCUkxkvk .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-vgbCUkxkvk .content-wrap {
+    width: 100%;
+  }
+}
+.cid-vgbCUkxkvk .mbr-section-title {
+  text-align: center;
+  color: #000000;
+}
+.cid-vgbCUkxkvk .mbr-text,
+.cid-vgbCUkxkvk .mbr-section-btn {
+  text-align: center;
+  color: #000000;
+}
+.cid-vgbCUkxkvk .mbr-description {
+  text-align: center;
+  color: #ffffff;
+}
 .cid-vganjgFXYL {
-  background-color: #a6a99c;
+  background-color: #0c2c68;
 }
 .cid-vganjgFXYL .mbr-fallback-image.disabled {
   display: none;
@@ -983,7 +1034,7 @@ a {
   flex-direction: row-reverse;
 }
 .cid-vgaqQE18lv {
-  background-color: #a6a99c;
+  background-color: #0c2c68;
 }
 .cid-vgaqQE18lv .mbr-fallback-image.disabled {
   display: none;
@@ -1124,7 +1175,7 @@ a {
 .cid-vgaqRFgj0g {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #a6a99c;
+  background-color: #0c2c68;
 }
 .cid-vgaqRFgj0g .mbr-fallback-image.disabled {
   display: none;
@@ -1265,7 +1316,7 @@ a {
 .cid-vgaqSvBvqy {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #a6a99c;
+  background-color: #0c2c68;
 }
 .cid-vgaqSvBvqy .mbr-fallback-image.disabled {
   display: none;
@@ -1406,7 +1457,7 @@ a {
 .cid-vgaSVJVc2f {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #a6a99c;
+  background-color: #0c2c68;
 }
 .cid-vgaSVJVc2f .mbr-media {
   position: relative;
@@ -1494,7 +1545,7 @@ a {
 .cid-vgaSDs8zl8 {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #0c2c68;
+  background-color: #ffffff;
 }
 .cid-vgaSDs8zl8 .mbr-fallback-image.disabled {
   display: none;
@@ -1509,7 +1560,7 @@ a {
   top: 0;
 }
 .cid-vgaSDs8zl8 .copyright {
-  color: #ffffff;
+  color: #0c2c68;
   text-align: left;
 }
 .cid-vgaSDs8zl8 .center {
